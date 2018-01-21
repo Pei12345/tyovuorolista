@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TyovuoroLista", "TyovuoroLista\TyovuoroLista.csproj", "{286E4320-E113-4967-8474-80AA483C61F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TyovuoroLista.Tests", "TyovuoroLista.Tests\TyovuoroLista.Tests.csproj", "{75F0FD58-2A0B-4194-AA43-9052A5DF9843}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{286E4320-E113-4967-8474-80AA483C61F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{286E4320-E113-4967-8474-80AA483C61F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{286E4320-E113-4967-8474-80AA483C61F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{286E4320-E113-4967-8474-80AA483C61F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75F0FD58-2A0B-4194-AA43-9052A5DF9843}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75F0FD58-2A0B-4194-AA43-9052A5DF9843}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75F0FD58-2A0B-4194-AA43-9052A5DF9843}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75F0FD58-2A0B-4194-AA43-9052A5DF9843}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
